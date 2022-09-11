@@ -1,0 +1,28 @@
+.sea-title {
+    color: #307272;
+}
+
+.article-list a {
+    color: gray;
+}
+
+#bathymatry > p {
+    color: teal;
+}
+
+#sould > * {
+    color: #2a2aff;
+}
+
+.general-title,
+.general-text {
+    color: blueviolet;
+}
+
+p.climate-text {
+    color: crimson;
+}
+
+.rivers-list li {
+    color: darkorange;
+}
